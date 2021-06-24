@@ -1,5 +1,4 @@
 public class Dog extends Animal{
-    static int count;
     String color;
 
     public Dog(){
@@ -8,7 +7,6 @@ public class Dog extends Animal{
     public Dog (String name, String color){
         this.name = name;
         this.color = color;
-        count++;
     }
 
     public void dogInfo(){

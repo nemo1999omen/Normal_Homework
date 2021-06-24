@@ -14,7 +14,7 @@ public class AnimalApp {
         animal.swim(500);
 
         Barsik.run(150);
-        Barsik.swim(100);
+        Barsik.swim(0);
 
         Muhtar.run(600);
         Muhtar.swim(500);
